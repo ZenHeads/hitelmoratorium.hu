@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.248bbc41.chunk.js",
+    "main.js.map": "/static/js/main.248bbc41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea09debc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea09debc.js.map",
+    "static/js/2.d867c69b.chunk.js": "/static/js/2.d867c69b.chunk.js",
+    "static/js/2.d867c69b.chunk.js.map": "/static/js/2.d867c69b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.74d25ed900751cf1e0f48b44527173a7.js": "/precache-manifest.74d25ed900751cf1e0f48b44527173a7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.d867c69b.chunk.js.LICENSE.txt": "/static/js/2.d867c69b.chunk.js.LICENSE.txt",
+    "static/media/accrued.svg": "/static/media/accrued.9802b651.svg",
+    "static/media/debt.svg": "/static/media/debt.af1f290c.svg",
+    "static/media/interest.svg": "/static/media/interest.e9920bb4.svg",
+    "static/media/intersect.svg": "/static/media/intersect.d0e7e673.svg",
+    "static/media/pattern.svg": "/static/media/pattern.3f6a0125.svg",
+    "static/media/stripes.svg": "/static/media/stripes.fd2850a0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea09debc.js",
+    "static/js/2.d867c69b.chunk.js",
+    "static/js/main.248bbc41.chunk.js"
+  ]
+}
